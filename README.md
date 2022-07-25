@@ -106,10 +106,8 @@ employees physically present in workplaces are wearing masks at all times.
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ThisIsTeddyBear&&style=flat-square" align="center" />
-</div>  
-  
+### ✍️ Quote's To Inspire You
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 <br/>  
 
