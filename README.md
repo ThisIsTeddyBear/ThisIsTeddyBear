@@ -1,8 +1,6 @@
 ## <div align="center">I'm Akul Jain, Passionate about Data Science 🚀 and Machine Learning 👨‍💻</div>  
   
 
-
-
 ### **Projects**  
 🎖️  I have worked on [***HyperSafety***](https://hypersafety.aceneutrino.com)
 * Mobile app made with NodeJS, Python, OpenCV and Flutter to ensure that
@@ -132,6 +130,3 @@ If things goes well, this section should automatically be replaced by a list of 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
