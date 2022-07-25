@@ -7,7 +7,7 @@ A **Software Engineering Student** 🚀 from India.
 ### **About Me!**
 - 👨🏽‍💻 I’m currently trying to get an internship 😉.
 - 🌱 I’m currently exploring Python with a big interest in Data Science and Artificial Intelligence. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 🤔 My interests are developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📝 See my [***Curriculum Vitae***](https://drive.google.com/file/d/1Mw58Vf-OmB5O9wwDu6AM4tC27vnJEagV/view?usp=sharing) to get more info.
