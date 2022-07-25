@@ -1,5 +1,19 @@
 ## <div align="center">I'm Akul Jain, Passionate about Data Science 🚀 and Machine Learning 👨‍💻</div>  
 
+A **Software Engineering Student** 🚀 from India.
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
+### **About Me!**
+- 👨🏽‍💻 I’m currently trying to get an internship 😉.
+- 🌱 I’m currently exploring Python with a big interest in Data Science and Artificial Intelligence. 
+- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [akul.everything@gmail.com](mailto:akul.everything@gmail.com).
+- 📝 See my [***Curriculum Vitae***](https://drive.google.com/file/d/1Mw58Vf-OmB5O9wwDu6AM4tC27vnJEagV/view?usp=sharing) to get more info.
+
+
 ### **Projects**  
 🎖️  I have worked on [***HyperSafety***](https://hypersafety.aceneutrino.com)
 * Mobile app made with NodeJS, Python, OpenCV and Flutter to ensure that
