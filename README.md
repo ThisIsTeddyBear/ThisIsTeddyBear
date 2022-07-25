@@ -47,6 +47,7 @@ employees physically present in workplaces are wearing masks at all times.
 </div>
 
 </td><td valign="top" width="33%">
+  </tr>
 
 <br/>  
 
