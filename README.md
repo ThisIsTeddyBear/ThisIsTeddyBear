@@ -10,7 +10,6 @@ A **Software Engineering Student** 🚀 from India.
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [akul.everything@gmail.com](mailto:akul.everything@gmail.com).
 - 📝 See my [***Curriculum Vitae***](https://drive.google.com/file/d/1Mw58Vf-OmB5O9wwDu6AM4tC27vnJEagV/view?usp=sharing) to get more info.
 
 
