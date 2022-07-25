@@ -101,15 +101,6 @@ employees physically present in workplaces are wearing masks at all times.
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-
-
 ### **I'm vibing to this right now**  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=akul_best&cover_image=true&theme=default&bar_color=8f2e24&bar_color_cover=true" /></div>  
 
