@@ -1,14 +1,14 @@
-## <div align="center">I'm Akul Jain, Passionate about Data Science 🚀 and Machine Learning 👨‍💻</div>  
+## <div align="center">I'm Akul Jain, Passionate about Artificial intelligence 🚀 and Machine Learning 👨‍💻</div>  
 
 A **Software Engineering Student** 🚀 from India.
 
   <img align="right" alt="GIF" src="https://c.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" />
   
 ### **About Me!**
-- 👨🏽‍💻 I’m currently trying to get an internship 😉.
+- 👨🏽‍💻 I’m currently working at IDP as a Project Trainee 😉.
 - 🌱 I’m currently exploring Python with a big interest in Data Science and Artificial Intelligence. 
 - 🤔 My interests are developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 I have completed my Bachelor's degree in Computer Science with Specialization in AI-ML.
 - 💬 Ask me about anything, I love to answer!
 - 📝 See my [***Curriculum Vitae***](https://drive.google.com/file/d/1Mw58Vf-OmB5O9wwDu6AM4tC27vnJEagV/view?usp=sharing) to get more info.
 
