@@ -1,6 +1,6 @@
 ## <div align="center">I'm Akul Jain, Passionate about Artificial intelligence 🚀 and Machine Learning 👨‍💻</div>  
 
-A **Software Engineering Student** 🚀 from India.
+A **Software Developer** 🚀 from India.
 
   <img align="right" alt="GIF" src="https://c.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" />
   
@@ -77,10 +77,6 @@ employees physically present in workplaces are wearing masks at all times.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-### **I'm vibing to this right now**  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=akul_best&cover_image=true&theme=default&bar_color=8f2e24&bar_color_cover=true" /></div>  
 
 
 <div align="center">
