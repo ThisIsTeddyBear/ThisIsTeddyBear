@@ -10,7 +10,7 @@ A **Software Engineering Student** 🚀 from India.
 - 🤔 My interests are developing some useful and cool stuff xD
 - 💼 I have completed my Bachelor's degree in Computer Science with Specialization in AI-ML.
 - 💬 Ask me about anything, I love to answer!
-- 📝 See my [***Curriculum Vitae***](https://drive.google.com/file/d/1Mw58Vf-OmB5O9wwDu6AM4tC27vnJEagV/view?usp=sharing) to get more info.
+- 📝 See my [***Curriculum Vitae***](https://drive.google.com/file/d/1XlaQx5pep0aY10xMWtkrrs8cfKaQNbp1/view?usp=sharing) to get more info.
 
 
 ### **Projects**  
