@@ -5,7 +5,6 @@ A **Software Engineering Student** 🚀 from India.
   <img align="right" alt="GIF" src="https://c.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" />
   
 ### **About Me!**
-- 👨🏽‍💻 I’m currently working at IDP as a Project Trainee 😉.
 - 🌱 I’m currently exploring Python with a big interest in Data Science and Artificial Intelligence. 
 - 🤔 My interests are developing some useful and cool stuff xD
 - 💼 I have completed my Bachelor's degree in Computer Science with Specialization in AI-ML.
@@ -24,16 +23,7 @@ employees physically present in workplaces are wearing masks at all times.
 * **Tech Stack Used:**
 <tr>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-</tr>
-
-### **New Learnings**  
-- 🌱 I’m currently learning ***Java***  
-  
-### **Tips and Fun Facts**  
-- ❓ Ask me about anything related to ***Python and Operating Systems***  
-  
-- ⚡ Fun fact: I use tabs over spaces  
-<br/>  
+</tr>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -88,27 +78,10 @@ employees physically present in workplaces are wearing masks at all times.
 </a>  
 </div>  
 
-<br/>  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisisteddybear&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisisteddybear&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisteddybear&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thisisteddybear&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-<br/>  
 
 ### **I'm vibing to this right now**  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=akul_best&cover_image=true&theme=default&bar_color=8f2e24&bar_color_cover=true" /></div>  
 
-<br/>  
-
-### ✍️ Quote's To Inspire You
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-<br/>  
 
 <div align="center">
             <a href="https://paypal.me/thisisakuljain" target="_blank" style="display: inline-block;">
