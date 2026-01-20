@@ -2,7 +2,7 @@
 
 A **Software Developer** 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" />
+<img alt="GIF" src="https://c.tenor.com/h0y8IkPv6UoAAAAC/fall-guy-computer.gif" />
   
 ## Connect with me  
 <div align="center">
